@@ -20,7 +20,7 @@ elif [ $op == "/" ]
 then
 	if [ $num2 -eq 0 ]
 	then
-		echo "Cant't divide by o"
+		echo "Can't divide by o"
 	else
 
 	echo $((num1/num2))
